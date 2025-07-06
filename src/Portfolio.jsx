@@ -5,12 +5,13 @@ import { useForm, ValidationError } from '@formspree/react';
 
 
 const FLOATING_IMAGES = [
-  "/floating-icons/asteroid1.png",
-  "/floating-icons/asteroid2.png",
-  "/floating-icons/github.png",
-  "/floating-icons/python.png",
-  "/floating-icons/rprogram.png"
+  process.env.PUBLIC_URL + "/floating-icons/asteroid1.png",
+  process.env.PUBLIC_URL + "/floating-icons/asteroid2.png",
+  process.env.PUBLIC_URL + "/floating-icons/github.png",
+  process.env.PUBLIC_URL + "/floating-icons/python.png",
+  process.env.PUBLIC_URL + "/floating-icons/rprogram.png"
 ];
+
 
 function getRandomStartPosition() {
   const edge = Math.floor(Math.random() * 4);

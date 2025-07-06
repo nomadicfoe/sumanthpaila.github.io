@@ -1,12 +1,12 @@
-import React from 'react';
-import Portfolio from './Portfolio';
-
+import React from "react";
+import { HashRouter } from "react-router-dom";
+import Portfolio from "./Portfolio";
 
 function App() {
   return (
-    <div>
+    <HashRouter>
       <Portfolio />
-    </div>
+    </HashRouter>
   );
 }
 
