@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sumanthpaila/static/css/main.156d326c.css",
+    "main.js": "/sumanthpaila/static/js/main.c5553abf.js",
+    "index.html": "/sumanthpaila/index.html",
+    "main.156d326c.css.map": "/sumanthpaila/static/css/main.156d326c.css.map",
+    "main.c5553abf.js.map": "/sumanthpaila/static/js/main.c5553abf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.156d326c.css",
+    "static/js/main.c5553abf.js"
+  ]
+}
