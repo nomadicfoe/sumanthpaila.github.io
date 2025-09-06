@@ -549,7 +549,7 @@ pipelines. I’m looking for opportunities where I can contribute to data-driven
       Reach out to me via this form. I’ll get back to you as soon as I can!
     </p>
     <p className="text-gray-400">
-          LinkedIn: <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noreferrer" className="text-blue-400">yourlinkedin</a>
+          LinkedIn: <a href="https://www.linkedin.com/in/sumanth-paila/" target="_blank" rel="noreferrer" className="text-blue-400">SumanthPaila</a>
         </p>
 
     <ContactForm />
